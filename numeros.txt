@@ -24,3 +24,23 @@ XIX
 XX
 
 Ano atual em romanos MMXX
+
+Lista de numeros por extenso...
+
+um
+dois
+três
+quatro
+cinco
+seis
+sete
+oito
+nove
+dez
+
+
+
+
+
+
+
